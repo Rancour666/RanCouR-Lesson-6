@@ -377,6 +377,8 @@ border-radius: 20px;
 	height: 200px;
 	border-radius: 50%;
 	object-fit: cover;
+	box-shadow: -15px 15px 2px 6px #3ba286a1,15px 15px 2px 6px #00000082, 0px -15px 2px 6px #e8d0b3 ;
+	border: 1px solid #ffffff;
 }
 .additional-two {
 	opacity: 0.5;
@@ -397,7 +399,7 @@ border-radius: 20px;
 	font-size: 30px;
 	display: inline-block;
 	text-align: center;
-	box-shadow: 10px 10px 10px 5px #7EB5A6, -3px -5px 5px 7px #00000096;
+	box-shadow:3px 5px 5px 7px #00000096, -10px -10px 10px 5px #7EB5A6;
 }
 .additional-five{
 	text-align: center;
@@ -410,6 +412,16 @@ border-radius: 20px;
 .additional-five>*{
 	padding: 33px;
 }
+
+
+
+
+
+
+
+
+
+
 
 /*================FOOTER=================*/
 .footer{
